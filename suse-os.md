@@ -1,6 +1,6 @@
 ---
 author: Angeloth1
-title: active-badge
+title: suse-os
 image_url: suse.jpg
 caption: 'Το Suse Linux είναι ένα λειτουργικό σύστημα υπολογιστή που
  αναπτύχθηκε από τη SUSE. Είναι χτισμένο πάνω από τον ελεύθερο και ανοιχτού
