@@ -1,7 +1,7 @@
 ---
 author: Angeloth1
 title: artix-linux
-image_url: suse.jpg
+image_url: /images/artix.jpg
 caption: 'Το Artix Linux είναι μια κυλιόμενη διανομή βασισμένη στο
  Arch Linux που χρησιμοποιεί init όπως OpenRC, runit, s6 ή Dinit, σε 
 αντίθεση με το init systemd του Arch Linux.
