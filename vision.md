@@ -9,6 +9,7 @@ license_text: Visicorp
 categories:
   - Μοντέλα
   - Εργαλεία
+  - tools
 tags:
   - Visi On
   - Φύλλο Εργασίας
