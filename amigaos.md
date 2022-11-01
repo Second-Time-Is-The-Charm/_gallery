@@ -15,5 +15,5 @@ tags:
   - Amiga
   - Assembly
   - C
-  - gui
+  - Γραφική διεπαφή χρήστη
 ---
