@@ -12,5 +12,5 @@ categories:
 tags:
   - Microsoft
   - mouse
-  - One-button
+  - Two-button
 ---
