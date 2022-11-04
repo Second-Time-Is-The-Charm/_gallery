@@ -1,6 +1,7 @@
 ---
 author: Angeloth1
 title: artix-linux
+year: 2017
 image_url: /images/artix.jpg
 caption: 'Το Artix Linux δημιουργήθηκαν το 2017 είναι μια κυλιόμενη διανομή βασισμένη στο
  Arch Linux που χρησιμοποιεί init όπως OpenRC, runit, s6 ή Dinit, σε 
