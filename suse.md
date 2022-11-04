@@ -1,6 +1,7 @@
 ---
 author: Angeloth1
 title: suse
+year: 1994
 image_url: /images/suse.jpg
 caption: 'Το Suse Linux είναι ένα λειτουργικό σύστημα υπολογιστή που
  αναπτύχθηκε από τη SUSE. Είναι χτισμένο πάνω από τον ελεύθερο και ανοιχτού
