@@ -11,6 +11,5 @@ categories:
   - GUI
 tags:
   - Microsoft
-  - Microsoft
   - Windows
 ---
