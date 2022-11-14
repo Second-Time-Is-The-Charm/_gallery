@@ -12,8 +12,9 @@ categories:
   - Επιτραπέζιος Υπολογιστής 
 tags:
   - IBM 
-  - Desktop
-  - Keyboard 
+  - Microsoft
+  - Windows
+  - Desktop 
   - PC 
   - HP
 ---
