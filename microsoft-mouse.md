@@ -11,6 +11,8 @@ categories:
   - input-device
 tags:
   - Microsoft
-  - mouse
+  - Mouse
   - Two-button
+  - IBM
+  - 
 ---
